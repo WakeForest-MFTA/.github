@@ -2,6 +2,8 @@
 
 Applied fintech, analytics, and AI—focused on building and evaluating real-world financial systems.
 
+A practitioner-oriented environment where students design, build, and assess fintech products using modern data and AI tools.
+
 ## What you'll find here
 - Student capstone projects
 - Machine learning applications in finance
