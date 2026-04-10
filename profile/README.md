@@ -17,3 +17,9 @@ A practitioner-oriented environment where students design, build, and assess fin
 
 ## Get involved
 MFTA students contribute through coursework, capstones, and independent projects.
+
+## How to use this organization
+
+- Explore starter projects and examples
+- Create your own repositories for coursework and capstones
+- Use GitHub to document, build, and showcase your work
